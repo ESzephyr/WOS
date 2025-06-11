@@ -101,65 +101,16 @@ If you're experiencing any issues or need assistance with the bot, we're here to
 
 ### 📞 Contact Methods
 - **Discord Server:** [Join Our Community](https://discord.gg/h8w6N6my4a)
-- **Developer:** Reloisback
-- **Direct Support:** Feel free to message me on Discord
 
 ## 💝 Support the Project
 
 ### Always Free
 This bot was created and published by Reloisback and will **ALWAYS BE FREE**. We believe in providing quality tools accessible to everyone.
 
-### ☕ Buy Me a Coffee
-If you'd like to support the development:
-- [Buy Me a Coffee](https://www.buymeacoffee.com/reloisback)
-- Your support helps maintain and improve the bot
-
 ## 🔓 Open Source
 Our bot's source code is 100% open source. We believe in transparency and community-driven development.
 
-## 💌 Final Note
-Thank you for being part of our community! Your support and feedback help make this bot better for everyone.
-
-Feel free to reach out anytime - we're always happy to help!
-
 ---
-*Made with ❤️ by Reloisback*
-
-
-# 👨‍💻 About the Developer
-
-## Personal Introduction
-I'm Umut, a 27-year-old developer specializing in Python and PHP. While I used to be an avid gamer, my responsibilities as a family provider have shifted my priorities, leaving limited time for gaming.
-
-## 🤖 Bot's Journey
-White of Survival bot started as a fun project for my own alliance. Upon realizing there wasn't anything similar available, I decided to develop it further and share it with the community. You're currently experiencing Version 4, following successful releases of V1, V2, and V3.
-
-The development process has been intense, ranging from 1-2 hours some days to marathon 14-15 hour coding sessions.
-
-## 💭 Why Free?
-I'm often asked why I keep this bot free. The answer is simple: accessibility. If monetized, the user base would shrink from thousands to perhaps just 10-15 users. Having experienced financial constraints myself, I understand the importance of making useful tools available to everyone, regardless of their financial situation.
-
-## 🤝 Support & Development
-For those who can and wish to support the project, you can use the [☕ Buy me a coffee](https://www.buymeacoffee.com/reloisback) link. These contributions help cover development costs:
-- Proxy servers
-- Testing environments
-- Server maintenance
-- Development tools
-
-## 💝 Final Words
-To those unable to provide financial support - thank you for using the bot! Support has never been and will never be mandatory. This project will remain free forever.
-
-I love this community and thank you all for being part of this journey. ❤️
-
----
-
-### Quick Links
-- [Discord Server](https://discord.gg/h8w6N6my4a)
-- [Support Page](https://www.buymeacoffee.com/reloisback)
-- Discord: Reloisback
-
-*Made with passion and dedication for the White of Survival community* ❤️
-
 
 # WOS Discord Bot V4 Documentation
 
